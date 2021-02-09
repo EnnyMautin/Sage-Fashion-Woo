@@ -14,9 +14,6 @@ template: |
     label: 'type: docs'
   - title: 'Dependency Updates'
     label: 'type: dependencies'
-     - title: 'Maintenance'
-    label: 'type: maintenance'
-  - title: 'Documentation'
-    label: 'type: docs'
-  - title: 'Dependency Updates'
-    label: 'type: dependencies'
+    - Siddharth Chauhan
+    - John Adekunle
+    - Enitan Mautin
